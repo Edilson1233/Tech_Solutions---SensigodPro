@@ -137,6 +137,8 @@
                 return;
             }
 
+            window.open('https://otieu.com/4/10570595', '_blank');
+
             // Esconde resultado anterior
             document.getElementById('result-box').style.display = 'none';
             
