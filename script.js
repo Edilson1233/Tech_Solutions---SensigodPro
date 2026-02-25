@@ -321,7 +321,7 @@ Gerado em: SensiGod.pro
             const device = document.getElementById('contactDevice').value;
             const message = document.getElementById('contactMessage').value;
 
-            const phone = "258850108639";
+            const phone = "258877467893";
             const whatsappMessage = `Olá, meu nome é ${name}.\n\nE meu email é:${email}.\n\nDispositivo: ${device || 'Não informado'}.\n\nMensagem:\n${message}`;
             const whatsappUrl = `https://wa.me/${phone}?text=${encodeURIComponent(whatsappMessage)}`;
 
